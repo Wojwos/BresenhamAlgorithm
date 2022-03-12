@@ -22,9 +22,13 @@ Ostatni parametr y2 nie może być przekazany do kolejnego rejestru, dlatego y2 
 ### Dane wejściowe
 Program pobiera dane z pliku txt podanego przez użytkownika. Dane w pliku muszą być podane w kolejności x y. Współrzędne muszą być podane z przedziału od 0 do 400, w innym przypadku dany punkt zostanie pominięty.
 >**Przykładowy plik wejściowy:**
+
 >10 10
+
 >50 0
+
 >150 50
+
 >0 200
 
 ### Opis uruchamiania programu
